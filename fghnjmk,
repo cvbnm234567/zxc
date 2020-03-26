@@ -1,6 +1,5 @@
 from turtle import Screen, Turtle 
-# 
-Calificaciones
+# Calificaciones
 suspensos = 10
 aprobados = 20 notables = 40
 sobresalientes = 20 
